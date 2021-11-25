@@ -1,0 +1,21 @@
+name: SIM
+author: Solindy
+version: Alpha 0.0.1
+main: main
+commands:
+  지혜지왕:
+    description: 지혜지왕
+  유혹지왕:
+    description: 유혹지왕
+  시공지신:
+    description: 시공지신
+  요리인:
+    description: 요리인
+  기아자:
+    description: 기아자
+  절단자:
+    description: 절단자
+  심연바이러스:
+    description: 심연 바이러스
+  클로노아의초시계:
+    description: 클로노아의 초시계
